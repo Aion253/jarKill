@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 public class Main {
 
 	public static void main(String[] args) {
-		 String processName = "chrome.exe";
+		 String processName = "java.exe";
 
 		 //System.out.print(isProcessRunning(processName));
 
